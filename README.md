@@ -40,7 +40,3 @@ DictationBot is a Telegram bot developed for the Faculty of Intelligent Informat
 2. Participants join and submit their versions of the poem.
 3. The administrator can close the room to lock participation.
 4. At the end of the dictation, submissions are stopped.
-
-## License
-This project is open-source. Feel free to contribute and improve it!
-
